@@ -39,7 +39,7 @@
             {
               "title": "Improved the extraction capabilities of the application",
               "summary": "Implemented flows for extracting transactions from bank statements, line items from receipts and invoices, splitting of PDFs containing multiple financial documents.",
-              "technologies": ["Ruby on Rails", "Ruby"]
+              "technologies": ["Ruby on Rails", "Ruby", "PostgreSQL"]
             },
             {
               "title": "Replaced custom search implementation with Elasticsearch",
@@ -55,7 +55,7 @@
             {
               "title": "Extracted part of a monolithic application into a service",
               "summary": "We identified that part of our main monolithic application dealing with manual data extraction can be organised into a separate service. I performed the task and delivered the end result in series of incremental releases.",
-              "technologies": ["Ruby on Rails", "Ruby", "SASS", "JavaScript", "Backbone.js"]
+              "technologies": ["Ruby on Rails", "Ruby", "SASS", "JavaScript", "Backbone.js", "PostgreSQL"]
             }
           ]
         }

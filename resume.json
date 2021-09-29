@@ -18,7 +18,7 @@
             {
               "title": "Migration to a new technology stack",
               "summary": "Led a team of 8 which goal was to introduce a new front end technology stack for Dext’s main application. As part of this task we had to re-write big part of the application in React + Typescript and consume a newly created GraphQL API. As incremental releases were not possible here, one of the big challenges was to roll out the end result with low amount of risk.",
-              "technologies": ["Typescript", "React", "GraphQL", "Ruby on Rails", "Ruby", "SASS", "Slim"]
+              "technologies": ["Typescript", "React", "GraphQL", "Ruby on Rails", "Ruby", "SASS", "Ruby Slim"]
             },
             {
               "title": "Implementation of an internal CSS design library",
@@ -43,7 +43,7 @@
             },
             {
               "title": "Replaced custom search implementation with Elasticsearch",
-              "summary": "One of Dext's internal applications keeps information about the relationship between brands, legal entities and other properties of a employer. It helps us identify that two (or more) financial documents are issued by the same business. It had search functionallity based on PostgresSQL features which was too complex and not working very well. I replaced it with Elasticsearch and the application became a thin layer and a UI around the search engine.",
+              "summary": "One of Dext's internal applications keeps information about the relationship between brands, legal entities and other properties of a employer. It helps us identify that two (or more) financial documents are issued by the same business. It had search functionallity based on PostgreSQL features which was too complex and not working very well. I replaced it with Elasticsearch and the application became a thin layer and a UI around the search engine.",
               "technologies": ["Ruby on Rails", "Ruby", "Elasticsearch"]
             }
           ]
@@ -145,6 +145,197 @@
       },
       "period": {"from": "10-2006", "to": "05-2008"},
       "summary": "Applied mathematics"
+    }
+  ],
+  "technologies": [
+    {
+      "name": "Ruby",
+      "website": "https://www.ruby-lang.org/",
+      "recently_used": true,
+      "can_mentor": true,
+      "knowledge_of_best_practices": "high",
+      "knowledge_of_features": "high",
+      "task_complexity": "hard"
+    },
+    {
+      "name": "Ruby on Rails",
+      "website": "https://rubyonrails.org/",
+      "recently_used": true,
+      "can_mentor": true,
+      "knowledge_of_best_practices": "high",
+      "knowledge_of_features": "high",
+      "task_complexity": "hard"
+    },
+    {
+      "name": "Typescript",
+      "website": "https://www.typescriptlang.org/",
+      "recently_used": true,
+      "can_mentor": true,
+      "knowledge_of_best_practices": "high",
+      "knowledge_of_features": "high",
+      "task_complexity": "hard"
+    },
+    {
+      "name": "GraphQL",
+      "website": "https://graphql.org/",
+      "recently_used": true,
+      "can_mentor": true,
+      "knowledge_of_best_practices": "high",
+      "knowledge_of_features": "high",
+      "task_complexity": "hard"
+    },
+    {
+      "name": "React",
+      "website": "https://reactjs.org/",
+      "recently_used": true,
+      "can_mentor": true,
+      "knowledge_of_best_practices": "high",
+      "knowledge_of_features": "high",
+      "task_complexity": "hard"
+    },
+    {
+      "name": "PostgreSQL",
+      "website": "https://www.postgresql.org/",
+      "recently_used": true,
+      "can_mentor": true,
+      "knowledge_of_best_practices": "medium",
+      "knowledge_of_features": "medium",
+      "task_complexity": "hard"
+    },
+    {
+      "name": "SASS",
+      "website": "https://sass-lang.com/",
+      "recently_used": true,
+      "can_mentor": true,
+      "knowledge_of_best_practices": "high",
+      "knowledge_of_features": "high",
+      "task_complexity": "hard"
+    },
+    {
+      "name": "HTML",
+      "website": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+      "recently_used": true,
+      "can_mentor": true,
+      "knowledge_of_best_practices": "high",
+      "knowledge_of_features": "high",
+      "task_complexity": "hard"
+    },
+    {
+      "name": "Storybook",
+      "website": "https://storybook.js.org/",
+      "recently_used": true,
+      "can_mentor": true,
+      "knowledge_of_best_practices": "medium",
+      "knowledge_of_features": "medium",
+      "task_complexity": "hard"
+    },
+    {
+      "name": "Git",
+      "website": "https://git-scm.com/",
+      "recently_used": true,
+      "can_mentor": true,
+      "knowledge_of_best_practices": "high",
+      "knowledge_of_features": "medium",
+      "task_complexity": "hard"
+    },
+    {
+      "name": "Javascript",
+      "website": "https://www.ecma-international.org/publications-and-standards/standards/ecma-262/",
+      "recently_used": true,
+      "can_mentor": true,
+      "knowledge_of_best_practices": "high",
+      "knowledge_of_features": "high",
+      "task_complexity": "hard"
+    },
+    {
+      "name": "Tailwind CSS",
+      "website": "https://tailwindcss.com/",
+      "recently_used": true,
+      "can_mentor": true,
+      "knowledge_of_best_practices": "medium",
+      "knowledge_of_features": "medium",
+      "task_complexity": "hard"
+    },
+    {
+      "name": "CoffeeScript",
+      "website": "https://coffeescript.org/",
+      "recently_used": false,
+      "can_mentor": true,
+      "knowledge_of_best_practices": "medium",
+      "knowledge_of_features": "high",
+      "task_complexity": "hard"
+    },
+    {
+      "name": "Cypress",
+      "website": "https://www.cypress.io/",
+      "recently_used": true,
+      "can_mentor": true,
+      "knowledge_of_best_practices": "medium",
+      "knowledge_of_features": "medium",
+      "task_complexity": "hard"
+    },
+    {
+      "name": "Bash",
+      "website": "https://www.ecma-international.org/publications-and-standards/standards/ecma-262/",
+      "recently_used": true,
+      "can_mentor": false,
+      "knowledge_of_best_practices": "low",
+      "knowledge_of_features": "medium",
+      "task_complexity": "medium"
+    },
+    {
+      "name": "Elasticsearch",
+      "website": "https://www.elastic.co/elasticsearch/",
+      "recently_used": false,
+      "can_mentor": false,
+      "knowledge_of_best_practices": "low",
+      "knowledge_of_features": "medium",
+      "task_complexity": "medium"
+    },
+    {
+      "name": "Redis",
+      "website": "https://redis.io/",
+      "recently_used": false,
+      "can_mentor": false,
+      "knowledge_of_best_practices": "low",
+      "knowledge_of_features": "medium",
+      "task_complexity": "medium"
+    },
+    {
+      "name": "Backbone.js",
+      "website": "https://www.ecma-international.org/publications-and-standards/standards/ecma-262/",
+      "recently_used": false,
+      "can_mentor": false,
+      "knowledge_of_best_practices": "low",
+      "knowledge_of_features": "low",
+      "task_complexity": "easy"
+    },
+    {
+      "name": "PHP",
+      "website": "https://www.php.net/",
+      "recently_used": false,
+      "can_mentor": false,
+      "knowledge_of_best_practices": "low",
+      "knowledge_of_features": "low",
+      "task_complexity": "easy"
+    },
+    {
+      "name": "Clojure",
+      "website": "https://clojure.org/",
+      "recently_used": false,
+      "can_mentor": false,
+      "knowledge_of_best_practices": "low",
+      "knowledge_of_features": "low",
+      "task_complexity": "easy"
+    },
+    {
+      "name": "Java",
+      "website": "https://www.java.com/",
+      "recently_used": false,
+      "can_mentor": false,
+      "knowledge_of_best_practices": "low",
+      "knowledge_of_features": "low",
+      "task_complexity": "easy"
     }
   ],
   "location": {

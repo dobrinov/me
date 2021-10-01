@@ -9,7 +9,7 @@
         "website": "https://www.dext.com/"
       },
       "period": {"from": "05-2016", "to": null},
-      "summary": "Dext is my current employer. It is a employer developing products for more efficient accounting and bookkeeping. Big part of my time here I was responsible for one of the internal applications of the employer, which is part of the data extraction flow. Recently I am taking part in various high profile projects.",
+      "summary": "Dext is my current employer. It is a company developing products for more efficient accounting and bookkeeping. Big part of my time here I was responsible for one of the internal applications of the company, which is part of the data extraction flow. Recently I am taking part in various high profile projects.",
       "roles": [
         {
           "title": "Development lead",
@@ -22,7 +22,7 @@
             },
             {
               "title": "Implementation of an internal CSS design library",
-              "summary": "We re-designed (at that time our main product) and since we became a multi product employer we wanted to have the same look and feel across all of our applications. Because of this we decided to organise our own CSS design library.",
+              "summary": "We re-designed (at that time our main product) and since we became a multi product company we wanted to have the same look and feel across all of our applications. Because of this we decided to organise our own CSS design library.",
               "technologies": ["Storybook", "SASS", "React", "Typescript"]
             }
           ]
@@ -43,7 +43,7 @@
             },
             {
               "title": "Replaced custom search implementation with Elasticsearch",
-              "summary": "One of Dext's internal applications keeps information about the relationship between brands, legal entities and other properties of a employer. It helps us identify that two (or more) financial documents are issued by the same business. It had search functionallity based on PostgreSQL features which was too complex and not working very well. I replaced it with Elasticsearch and the application became a thin layer and a UI around the search engine.",
+              "summary": "One of Dext's internal applications keeps information about the relationship between brands, legal entities and other properties of a company. It helps us identify that two (or more) financial documents are issued by the same business. It had search functionallity based on PostgreSQL features which was too complex and not working very well. I replaced it with Elasticsearch and the application became a thin layer and a UI around the search engine.",
               "technologies": ["Ruby on Rails", "Ruby", "Elasticsearch"]
             }
           ]
@@ -114,7 +114,7 @@
         "website": "https://www.sap.com/"
       },
       "period": {"from": "04-2007", "to": "10-2011"},
-      "summary": "SAP AG is one of the biggest producers of enterprice software in the world. Most of the time there I was responsible for the tooling required for the internationalization of an application server (NetWeaver) developed by the employer.",
+      "summary": "SAP AG is one of the biggest producers of enterprice software in the world. Most of the time there I was responsible for the tooling required for the internationalization of an application server (NetWeaver) developed by the company.",
       "roles": [
         {
           "title": "Software engineer",

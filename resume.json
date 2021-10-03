@@ -281,7 +281,7 @@
       "can_mentor": false,
       "knowledge_of_best_practices": "low",
       "knowledge_of_features": "medium",
-      "task_complexity": "medium"
+      "task_complexity": "intermediate"
     },
     {
       "name": "Elasticsearch",
@@ -290,7 +290,7 @@
       "can_mentor": false,
       "knowledge_of_best_practices": "low",
       "knowledge_of_features": "medium",
-      "task_complexity": "medium"
+      "task_complexity": "intermediate"
     },
     {
       "name": "Redis",
@@ -299,7 +299,7 @@
       "can_mentor": false,
       "knowledge_of_best_practices": "low",
       "knowledge_of_features": "medium",
-      "task_complexity": "medium"
+      "task_complexity": "intermediate"
     },
     {
       "name": "Backbone.js",

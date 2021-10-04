@@ -37,7 +37,7 @@
               "technologies": ["Raphaël", "JavaScript", "Backbone.js"]
             },
             {
-              "title": "Improved the extraction capabilities of the application",
+              "title": "Improved the data extraction capabilities of the application",
               "summary": "Implemented flows for extracting transactions from bank statements, line items from receipts and invoices, splitting of PDFs containing multiple financial documents.",
               "technologies": ["Ruby on Rails", "Ruby", "PostgreSQL"]
             },

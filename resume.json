@@ -1,7 +1,7 @@
 {
   "name": "Deyan Dobrinov",
   "image": "https://avatars.githubusercontent.com/u/996877?v=4",
-  "summary": "I am a software developer with more than 14 years of professional experience. In the past several years I am mostly working on Ruby/Rails web projects. I believe that every complex problem has a simple solution, which could be found if you understand where the complexity comes from and I enjoy doing that. I like good UX and I fight for it.",
+  "summary": "I am a software developer with more than 14 years of professional experience. In the past several years I am mostly working on Ruby/Rails web projects. I believe that every complex problem has a simple solution, which could be found if you understand where the complexity comes from. I enjoy doing that. I like good UX, and I fight for it.",
   "employments": [
     {
       "employer": {
@@ -9,7 +9,7 @@
         "website": "https://www.dext.com/"
       },
       "period": {"from": "05-2016", "to": null},
-      "summary": "Dext is my current employer. It is a company developing products for more efficient accounting and bookkeeping. Big part of my time here I was responsible for one of the internal applications of the company, which is part of the data extraction flow. Recently I am taking part in various high profile projects.",
+      "summary": "Dext is my current employer. It is a company developing products for more efficient accounting and bookkeeping. Lately, I am spending my time there on the development of various high-profile projects.",
       "roles": [
         {
           "title": "Development lead",

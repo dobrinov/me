@@ -13,23 +13,23 @@
       "roles": [
         {
           "title": "Development lead",
-          "summary": "Direct report of the CTO. Leading a team involved in projects aiming to improve system design (strategic refactoring, major updates, etc.).",
+          "summary": "I am currently a direct report of the CTO. I lead a small team involved in projects that aim to improve system design (strategic refactoring, major updates, etc.).",
           "major_achievements": [
             {
               "title": "Migration to a new technology stack",
-              "summary": "Led a team of 8 which goal was to introduce a new front end technology stack for Dext’s main application. As part of this task we had to re-write big part of the application in React + Typescript and consume a newly created GraphQL API. As incremental releases were not possible here, one of the big challenges was to roll out the end result with low amount of risk.",
+              "summary": "Led a team of 8 which goal was to introduce a new front-end technology stack for Dext’s main application. As part of this task, we had to re-write a big part of the application in React + Typescript and consume a newly created GraphQL API. As incremental releases were not possible here, one of the big challenges was to roll out the end result with a low amount of risk.",
               "technologies": ["Typescript", "React", "GraphQL", "Ruby on Rails", "Ruby", "SASS", "Ruby Slim"]
             },
             {
               "title": "Implementation of an internal CSS design library",
-              "summary": "We re-designed (at that time our main product) and since we became a multi product company we wanted to have the same look and feel across all of our applications. Because of this we decided to organise our own CSS design library.",
+              "summary": "We re-designed (at that time our main product), and since we became a multi-product company we wanted to have the same look and feel across all of our applications. Because of this, we decided to create our own CSS design library.",
               "technologies": ["Storybook", "SASS", "React", "Typescript"]
             }
           ]
         },
         {
           "title": "Team lead",
-          "summary": "Led a team responsible for the development of the application on which I worked in my previous role.",
+          "summary": "I led a team of 2 software engineers and 1 QA responsible for the development of the application which I extracted out of the monolithic application during my previous role.",
           "major_achievements": [
             {
               "title": "Implementation of a tool for extracting tabular data from OCR responses",

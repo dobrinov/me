@@ -147,6 +147,36 @@
       "summary": "Applied mathematics"
     }
   ],
+  "side_projects": [
+    {
+      "name": "JsonMe",
+      "website": "https://www.jsonme.com/",
+      "online": true,
+      "period": {"from": "09-2021", "to": null},
+      "summary": "The resume JsonMe is a web application allowing software engineers to maintain a resume in json format and keep it in their Github/Gitlab profile."
+    },
+    {
+      "name": "Textstandup",
+      "website": "https://www.textstandup.com/",
+      "online": false,
+      "period": {"from": "08-2019", "to": "06-2020"},
+      "summary": "Web application for text based stand-ups. I was not happy with the efficiency of the stand-up meetings so I started doing them in a text form in my team. This was working well so I wrote a web application for this. More about the motivation behind the project could be found here - https://medium.com/@ddobrinov/text-based- stand-ups-de741fa6c724."
+    },
+    {
+      "name": "DEV wanted",
+      "website": "https://www.devwanted.com/",
+      "online": false,
+      "period": {"from": "05-2018", "to": "06-2018"},
+      "summary": "This was a website for jobs offering a referral bonus. Unfortunately it was more difficult than I expected to collect them and I was not able to use my main marketing channel (Facebook Ads), because it turned out that advertising jobs is considered as discrimination when you target based on age, gender, etc."
+    },
+    {
+      "name": "Carpass",
+      "website": "https://www.carpass.bg/",
+      "online": false,
+      "period": {"from": "03-2016", "to": "08-2020"},
+      "summary": "Web application for maintaining a vehicle maintenance logs. I needed a tool to log the maintenance history of my car and I decided to build one. It is still being used by 3000+ people. I am not actively working on it for more than an year but it is still online."
+    }
+  ],
   "technologies": [
     {
       "name": "Ruby",

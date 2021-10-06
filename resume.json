@@ -153,7 +153,7 @@
       "website": "https://www.jsonme.com/",
       "online": true,
       "period": {"from": "09-2021", "to": null},
-      "summary": "The resume JsonMe is a web application allowing software engineers to maintain a resume in json format and keep it in their Github/Gitlab profile."
+      "summary": "The resume JsonMe is a web application allowing software engineers to maintain a resume in json format and keep it in their Github/Gitlab profile. The CV that you are looking at the moment was generated with it."
     },
     {
       "name": "Textstandup",
@@ -174,7 +174,7 @@
       "website": "https://www.carpass.bg/",
       "online": false,
       "period": {"from": "03-2016", "to": "08-2020"},
-      "summary": "Web application for maintaining a vehicle maintenance logs. I needed a tool to log the maintenance history of my car and I decided to build one. It is still being used by 3000+ people. I am not actively working on it for more than an year but it is still online."
+      "summary": "Web application for maintaining a vehicle maintenance logs. I needed a tool to log the maintenance history of my car and I decided to build one. It is still being used by 3000+ people."
     }
   ],
   "technologies": [

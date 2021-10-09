@@ -14,7 +14,7 @@
         {
           "title": "Development lead",
           "summary": "I am currently a direct report of the CTO. I lead a small team involved in projects that aim to improve system design (strategic refactoring, major updates, etc.).",
-          "major_achievements": [
+          "majorAchievements": [
             {
               "title": "Migration to a new technology stack",
               "summary": "Led a team of 8 which goal was to introduce a new front-end technology stack for Dext’s main application. As part of this task, we had to re-write a big part of the application in React + Typescript and consume a newly created GraphQL API. As incremental releases were not possible here, one of the big challenges was to roll out the end result with a low amount of risk.",
@@ -30,7 +30,7 @@
         {
           "title": "Team lead",
           "summary": "I led a team of 2 software engineers and 1 QA. It was responsible for the application on which I worked during my previous role.",
-          "major_achievements": [
+          "majorAchievements": [
             {
               "title": "Implementation of a tool for extracting tabular data from OCR responses",
               "summary": "We needed a way to extract line items and bank transactions more efficiently. Such type of information is usually organized in a table. I came with the idea to overlay the OCR data over the payment document image and make it possible to be selected. Then using simple mathematics I was able to recognize the rows and colls of the table and extract information out of them.",
@@ -51,7 +51,7 @@
         {
           "title": "Software engineer",
           "summary": "I worked for a while on Dext's main product and then my main goal became to extract part of it which was dealing with manual (done by people) data extraction into a separate service.",
-          "major_achievements": [
+          "majorAchievements": [
             {
               "title": "Extracted part of a monolithic application into a service",
               "summary": "We identified that part of our main monolithic application dealing with manual data extraction can be organised into a separate service. I performed the task and delivered the end result in series of incremental releases.",
@@ -72,7 +72,7 @@
         {
           "title": "Software engineer",
           "summary": "I was part of a team which was dealing with legacy code. My main responsibilities were refactoring old code and investigating and fixing production issues.",
-          "major_achievements": [
+          "majorAchievements": [
             {
               "title": "Prototype of a monitoring system",
               "summary": "Evaluating and deploying a prototype of an open source monitoring tool based on Riemann.",
@@ -98,7 +98,7 @@
         {
           "title": "Frontend engineer",
           "summary": "I was one of the two frontend engineers working on the project. I was mostly interacting with Rails view/controller code + the javascript and css of the application.",
-          "major_achievements": [
+          "majorAchievements": [
             {
               "title": "Implementation of gamification features",
               "summary": "The product was heavily relying on gamification features to sell an internal currency with which the users were able to pay for features. My most interesting tasks were the implementation of two games \"Whell of fortune\" and \"Slot machine\".",
@@ -118,7 +118,7 @@
       "roles": [
         {
           "title": "Software engineer",
-          "major_achievements": [
+          "majorAchievements": [
             {
               "title": "Migration of an internal knowledge base system from MediaWiki to Confluence",
               "summary": "We decided to move away from MediaWiki and my job was to implement a tool and use it to migrate our documentation to Confluence.",
@@ -147,7 +147,7 @@
       "summary": "Applied mathematics"
     }
   ],
-  "side_projects": [
+  "sideProjects": [
     {
       "name": "JsonMe",
       "website": "https://www.jsonme.com/",
@@ -181,191 +181,191 @@
     {
       "name": "Ruby",
       "website": "https://www.ruby-lang.org/",
-      "recently_used": true,
-      "can_mentor": true,
-      "knowledge_of_best_practices": "high",
-      "knowledge_of_features": "high",
-      "task_complexity": "hard"
+      "recentlyUsed": true,
+      "canMentor": true,
+      "knowledgeOfBestPractices": "high",
+      "knowledgeOfFeatures": "high",
+      "taskComplexity": "hard"
     },
     {
       "name": "Ruby on Rails",
       "website": "https://rubyonrails.org/",
-      "recently_used": true,
-      "can_mentor": true,
-      "knowledge_of_best_practices": "high",
-      "knowledge_of_features": "high",
-      "task_complexity": "hard"
+      "recentlyUsed": true,
+      "canMentor": true,
+      "knowledgeOfBestPractices": "high",
+      "knowledgeOfFeatures": "high",
+      "taskComplexity": "hard"
     },
     {
       "name": "Typescript",
       "website": "https://www.typescriptlang.org/",
-      "recently_used": true,
-      "can_mentor": true,
-      "knowledge_of_best_practices": "high",
-      "knowledge_of_features": "high",
-      "task_complexity": "hard"
+      "recentlyUsed": true,
+      "canMentor": true,
+      "knowledgeOfBestPractices": "high",
+      "knowledgeOfFeatures": "high",
+      "taskComplexity": "hard"
     },
     {
       "name": "GraphQL",
       "website": "https://graphql.org/",
-      "recently_used": true,
-      "can_mentor": true,
-      "knowledge_of_best_practices": "high",
-      "knowledge_of_features": "high",
-      "task_complexity": "hard"
+      "recentlyUsed": true,
+      "canMentor": true,
+      "knowledgeOfBestPractices": "high",
+      "knowledgeOfFeatures": "high",
+      "taskComplexity": "hard"
     },
     {
       "name": "React",
       "website": "https://reactjs.org/",
-      "recently_used": true,
-      "can_mentor": true,
-      "knowledge_of_best_practices": "high",
-      "knowledge_of_features": "high",
-      "task_complexity": "hard"
+      "recentlyUsed": true,
+      "canMentor": true,
+      "knowledgeOfBestPractices": "high",
+      "knowledgeOfFeatures": "high",
+      "taskComplexity": "hard"
     },
     {
       "name": "PostgreSQL",
       "website": "https://www.postgresql.org/",
-      "recently_used": true,
-      "can_mentor": true,
-      "knowledge_of_best_practices": "medium",
-      "knowledge_of_features": "medium",
-      "task_complexity": "hard"
+      "recentlyUsed": true,
+      "canMentor": true,
+      "knowledgeOfBestPractices": "medium",
+      "knowledgeOfFeatures": "medium",
+      "taskComplexity": "hard"
     },
     {
       "name": "SASS",
       "website": "https://sass-lang.com/",
-      "recently_used": true,
-      "can_mentor": true,
-      "knowledge_of_best_practices": "high",
-      "knowledge_of_features": "high",
-      "task_complexity": "hard"
+      "recentlyUsed": true,
+      "canMentor": true,
+      "knowledgeOfBestPractices": "high",
+      "knowledgeOfFeatures": "high",
+      "taskComplexity": "hard"
     },
     {
       "name": "HTML",
       "website": "https://developer.mozilla.org/en-US/docs/Web/HTML",
-      "recently_used": true,
-      "can_mentor": true,
-      "knowledge_of_best_practices": "high",
-      "knowledge_of_features": "high",
-      "task_complexity": "hard"
+      "recentlyUsed": true,
+      "canMentor": true,
+      "knowledgeOfBestPractices": "high",
+      "knowledgeOfFeatures": "high",
+      "taskComplexity": "hard"
     },
     {
       "name": "Storybook",
       "website": "https://storybook.js.org/",
-      "recently_used": true,
-      "can_mentor": true,
-      "knowledge_of_best_practices": "medium",
-      "knowledge_of_features": "medium",
-      "task_complexity": "hard"
+      "recentlyUsed": true,
+      "canMentor": true,
+      "knowledgeOfBestPractices": "medium",
+      "knowledgeOfFeatures": "medium",
+      "taskComplexity": "hard"
     },
     {
       "name": "Git",
       "website": "https://git-scm.com/",
-      "recently_used": true,
-      "can_mentor": true,
-      "knowledge_of_best_practices": "high",
-      "knowledge_of_features": "medium",
-      "task_complexity": "hard"
+      "recentlyUsed": true,
+      "canMentor": true,
+      "knowledgeOfBestPractices": "high",
+      "knowledgeOfFeatures": "medium",
+      "taskComplexity": "hard"
     },
     {
       "name": "Javascript",
       "website": "https://www.ecma-international.org/publications-and-standards/standards/ecma-262/",
-      "recently_used": true,
-      "can_mentor": true,
-      "knowledge_of_best_practices": "high",
-      "knowledge_of_features": "high",
-      "task_complexity": "hard"
+      "recentlyUsed": true,
+      "canMentor": true,
+      "knowledgeOfBestPractices": "high",
+      "knowledgeOfFeatures": "high",
+      "taskComplexity": "hard"
     },
     {
       "name": "Tailwind CSS",
       "website": "https://tailwindcss.com/",
-      "recently_used": true,
-      "can_mentor": true,
-      "knowledge_of_best_practices": "medium",
-      "knowledge_of_features": "medium",
-      "task_complexity": "hard"
+      "recentlyUsed": true,
+      "canMentor": true,
+      "knowledgeOfBestPractices": "medium",
+      "knowledgeOfFeatures": "medium",
+      "taskComplexity": "hard"
     },
     {
       "name": "CoffeeScript",
       "website": "https://coffeescript.org/",
-      "recently_used": false,
-      "can_mentor": true,
-      "knowledge_of_best_practices": "medium",
-      "knowledge_of_features": "high",
-      "task_complexity": "hard"
+      "recentlyUsed": false,
+      "canMentor": true,
+      "knowledgeOfBestPractices": "medium",
+      "knowledgeOfFeatures": "high",
+      "taskComplexity": "hard"
     },
     {
       "name": "Cypress",
       "website": "https://www.cypress.io/",
-      "recently_used": true,
-      "can_mentor": true,
-      "knowledge_of_best_practices": "medium",
-      "knowledge_of_features": "medium",
-      "task_complexity": "hard"
+      "recentlyUsed": true,
+      "canMentor": true,
+      "knowledgeOfBestPractices": "medium",
+      "knowledgeOfFeatures": "medium",
+      "taskComplexity": "hard"
     },
     {
       "name": "Bash",
       "website": "https://www.ecma-international.org/publications-and-standards/standards/ecma-262/",
-      "recently_used": true,
-      "can_mentor": false,
-      "knowledge_of_best_practices": "low",
-      "knowledge_of_features": "medium",
-      "task_complexity": "intermediate"
+      "recentlyUsed": true,
+      "canMentor": false,
+      "knowledgeOfBestPractices": "low",
+      "knowledgeOfFeatures": "medium",
+      "taskComplexity": "intermediate"
     },
     {
       "name": "Elasticsearch",
       "website": "https://www.elastic.co/elasticsearch/",
-      "recently_used": false,
-      "can_mentor": false,
-      "knowledge_of_best_practices": "low",
-      "knowledge_of_features": "medium",
-      "task_complexity": "intermediate"
+      "recentlyUsed": false,
+      "canMentor": false,
+      "knowledgeOfBestPractices": "low",
+      "knowledgeOfFeatures": "medium",
+      "taskComplexity": "intermediate"
     },
     {
       "name": "Redis",
       "website": "https://redis.io/",
-      "recently_used": false,
-      "can_mentor": false,
-      "knowledge_of_best_practices": "low",
-      "knowledge_of_features": "medium",
-      "task_complexity": "intermediate"
+      "recentlyUsed": false,
+      "canMentor": false,
+      "knowledgeOfBestPractices": "low",
+      "knowledgeOfFeatures": "medium",
+      "taskComplexity": "intermediate"
     },
     {
       "name": "Backbone.js",
       "website": "https://www.ecma-international.org/publications-and-standards/standards/ecma-262/",
-      "recently_used": false,
-      "can_mentor": false,
-      "knowledge_of_best_practices": "low",
-      "knowledge_of_features": "low",
-      "task_complexity": "easy"
+      "recentlyUsed": false,
+      "canMentor": false,
+      "knowledgeOfBestPractices": "low",
+      "knowledgeOfFeatures": "low",
+      "taskComplexity": "easy"
     },
     {
       "name": "PHP",
       "website": "https://www.php.net/",
-      "recently_used": false,
-      "can_mentor": false,
-      "knowledge_of_best_practices": "low",
-      "knowledge_of_features": "low",
-      "task_complexity": "easy"
+      "recentlyUsed": false,
+      "canMentor": false,
+      "knowledgeOfBestPractices": "low",
+      "knowledgeOfFeatures": "low",
+      "taskComplexity": "easy"
     },
     {
       "name": "Clojure",
       "website": "https://clojure.org/",
-      "recently_used": false,
-      "can_mentor": false,
-      "knowledge_of_best_practices": "low",
-      "knowledge_of_features": "low",
-      "task_complexity": "easy"
+      "recentlyUsed": false,
+      "canMentor": false,
+      "knowledgeOfBestPractices": "low",
+      "knowledgeOfFeatures": "low",
+      "taskComplexity": "easy"
     },
     {
       "name": "Java",
       "website": "https://www.java.com/",
-      "recently_used": false,
-      "can_mentor": false,
-      "knowledge_of_best_practices": "low",
-      "knowledge_of_features": "low",
-      "task_complexity": "easy"
+      "recentlyUsed": false,
+      "canMentor": false,
+      "knowledgeOfBestPractices": "low",
+      "knowledgeOfFeatures": "low",
+      "taskComplexity": "easy"
     }
   ],
   "location": {

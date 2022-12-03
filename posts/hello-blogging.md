@@ -10,8 +10,6 @@ It works similar to [Jekyll](https://www.jekyllrb.com) but saves you some mainte
 # How does it work?
 If you have not guessed yet, you are reading a blog post served by this new functionallity. Its source is a [hello-blogging.md](https://github.com/dobrinov/me/blob/main/posts/hello-blogging.md) file located in a [posts](https://github.com/dobrinov/me/tree/main/posts) directory in a [me](https://www.github.com/dobrinov/me) repository in [my Github profile](https://www.github.com/dobrinov/me). Thanks to this the contents of the markdown file can be viewed as a web page located at [https://www.jsonme.com/github/dobrinov/posts/hello-blogging](https://www.jsonme.com/github/dobrinov/posts/hello-blogging).
 
-Yes, I am fully aware that this is an awesome attack vector, but I am fine with this because the markdown file is actually parsed on your machine and not the jsonme servers.
-
 # How can you create one yourself?
 
 ## Creating a jsonme "profile"

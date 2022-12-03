@@ -1,6 +1,6 @@
 ---
 title:  "Hello, blogging!"
-date: 2022-11-26
+date: 2022-12-03
 ---
 
 After postponning this feature for quite a while I am happy to announce that I was finally able to incoroporate blogging capability into [www.jsonme.com](https://www.jsonme.com).
@@ -38,7 +38,7 @@ In order to start blogging on jsonme.com, you will need to create a "profile" - 
 ```json
 ---
 title:  "Hello, blogging!"
-date: 2022-11-26
+date: 2022-12-03
 ---
 I have just started a [jsonme](https://www.jsonme.com) blog.
 ```

@@ -20,7 +20,7 @@ In order to start blogging on jsonme.com, you will need to create a "profile" - 
 1. Create a **public** Github repository called **me**.
 2. Create a folder on your local machine and call it **me**.
 3. Run `git init` inside of it.
-4. Create a **resume.json** file in it with the following content:
+4. Create a **me.json** file in it with the following content:
 ```json
 {
   "name": "John Doe",
@@ -33,7 +33,7 @@ In order to start blogging on jsonme.com, you will need to create a "profile" - 
 7. `git push -u origin main`
 
 ## Publishing your first blog post
-1. Create a **posts** directory next to **resume.json** file that you just created.
+1. Create a **posts** directory next to **me.json** file that you just created.
 2. In the posts directory create a file called **hello-blogging.md** with the following content:
 ```json
 ---

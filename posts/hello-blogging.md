@@ -45,4 +45,4 @@ I have just started a [jsonme](https://www.jsonme.com) blog.
 4. `git push`
 
  **Congratulations!**
- You have just published your blog post. Navigate to https://www.jsonme.com/github/**{yourgithubhandle}**/posts/hello-blogging to see it.
+ You have just published your blog post. Navigate to [https://www.jsonme.com/github/**{yourgithubhandle}**/posts/hello-blogging](https://www.jsonme.com/github/yourgithubhandle/posts/hello-blogging) to see it.

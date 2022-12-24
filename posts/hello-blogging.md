@@ -33,7 +33,7 @@ In order to start blogging on jsonme.com, you will need to create a "profile" - 
 ## Publishing your first blog post
 1. Create a **posts** directory next to **me.json** file that you just created.
 2. In the posts directory create a file called **hello-blogging.md** with the following content:
-```json
+```markdown
 ---
 title:  "Hello, blogging!"
 date: 2022-12-03
